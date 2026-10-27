@@ -8,3 +8,6 @@ Next: run it on a free local model with Ollama, give it memory, and talk to it f
 
 ## Status
 Early. Not ready for anyone else to run yet.
+
+## License
+MIT. See [LICENSE](LICENSE).
