@@ -1,0 +1,13 @@
+[project]
+name = "opentome"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Freddy Rosa", email = "321212545+freddyrosa16@users.noreply.github.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "openai>=3.40.0",
+    "python-dotenv>=1.2.4",
+]

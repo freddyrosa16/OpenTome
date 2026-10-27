@@ -29,7 +29,7 @@ def call_function(tool_call, verbose: bool = False) -> dict:
     }
 
     if function_name in function_map:
-        new_value = {"working_directory": "./calculator"}
+        new_value = {"working_directory": "./workspace"}
         function_args.update(new_value)
     else:
         return {
